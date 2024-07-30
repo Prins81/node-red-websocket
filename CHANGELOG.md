@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.66.0](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.65.1...v0.66.0) (2024-07-30)
+
+
+### Features
+
+* Add support for floors and labels ([36c2c9d](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/commit/36c2c9d66ec5bfd8e5e588f5bd97b7a0fd288670))
+* **api:** Add DELETE and PUT methods to the API node ([7bba5af](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/commit/7bba5af90238001e3120117d54ac0fab5fdfb1b6)), closes [#1435](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/issues/1435)
+
 ## [0.65.1](https://github.com/zachowj/node-red-contrib-home-assistant-websocket/compare/v0.65.0...v0.65.1) (2024-06-26)
 
 
